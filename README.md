@@ -1,3 +1,7 @@
+# Forge Switch
+This is a simple tool for Halo The Master Chief Collection on PC.
+- Coded by Allistar from Star Sec.
+More updates coming soon
 
 DESCRIPTION:
 --------------------------------------------
@@ -7,22 +11,17 @@ this, this tool will automatically allow you to create 2 new folders one to stor
 mod files and one to store a copy of the Original Files. I Suggest you Create these files inside 
 the folder for the Master Chief Collection under steamapps.
 
-
 Future Updates:
 --------------------------------------------
  - Will publish a C++ version that uses visual C++ to run the tool soon
  - Video tutorial will be realeased some time later this week Date:12/11/2019
  - Later Updates will include mac support 
 
-
 Compatability:
 --------------------------------------------
 Linux any version that isn't outdated as fuck
 Windows requires windows 10 with git installed for windows
 Mac will be supported in future versions
-
-
-
 
 Instructions:
 -------------------------------------------
@@ -42,16 +41,11 @@ https://git-scm.com/download/win and as always virus scan any link or files you 
 found at https://www.virustotal.com/gui/. Once you install the git shell you can juse double click
 the HaloMod.sh file and it will run allowing you to use it with no other dependancies. 
 
-
 Linux Usage:
 --------------------------------------------
 Linux users will doubtfully need any help using this and your version is more simple plugin the
 directory paths for the folders where the mod files and orignal files are located. Also please 
 plugin the file path for the reach maps folder and the windows pak folder. Ex:   
-
-
-For future updates check my github: https://github.com/STAR-Sec
-
 
 
 
