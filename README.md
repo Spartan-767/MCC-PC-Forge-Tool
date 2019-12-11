@@ -25,7 +25,7 @@ Mac will be supported in future versions
 
 Instructions:
 -------------------------------------------
-Please first select option 2 and set the path to the MCC Directory, you should use the path to 
+Using the HaloMod.sh Script select option 2 and set the path to the MCC Directory, you should use the path to 
 the folder named 'Halo The Master Chief Collection' specifically. Then you may use the first option 
 to easily turn forge on and off. You will need to follow the steps [here](https://www.reddit.com/r/halomods/comments/e5tki5/reach_enable_forge/)
 in order to create the modified pak file you will need to place in the mods folder. To modify the 
