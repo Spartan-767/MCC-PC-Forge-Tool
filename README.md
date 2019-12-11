@@ -24,7 +24,7 @@ Mac will be supported in future versions
 
 
 
-INSTRUCTIONS:
+Instructions:
 -------------------------------------------
 Please first select option 2 and set the path to the MCC Directory, you should use the path to
 the folder named 'Halo The Master Chief Collection' specifically. Then you may use the first option
