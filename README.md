@@ -27,9 +27,11 @@ Instructions:
 -------------------------------------------
 Please first select option 2 and set the path to the MCC Directory, you should use the path to 
 the folder named 'Halo The Master Chief Collection' specifically. Then you may use the first option 
-to easily turn forge on and off. You will need to follow the steps here   in order to create the modified 
-pak file you will need to place in the mods folder. You will also need to donwload the edited forge map 
-from [here](https://mega.nz/#!eodgBKJS!7IlHqdeSxVesGEZ3gwYFE2QRsKnuZyYkVLRA2IDKFRY) and place it in the mods folder as well.
+to easily turn forge on and off. You will need to follow the steps [here](https://www.reddit.com/r/halomods/comments/e5tki5/reach_enable_forge/)
+in order to create the modified pak file you will need to place in the mods folder. To modify the 
+pak file you can use this tool [here](https://mh-nexus.de/downloads/HxDSetup.zip). You will also 
+need to donwload the edited forge map from [here](https://mega.nz/#!eodgBKJS!7IlHqdeSxVesGEZ3gwYFE2QRsKnuZyYkVLRA2IDKFRY) 
+and place it in the mods folder as well. 
 
 Windows Usage:
 --------------------------------------------
@@ -38,8 +40,8 @@ files will automatically be placed in the proper folders as well as your origina
 copied and pasted into the original folder. I didn't include those in case it contained user 
 specific data and to prevent any acciedental alarming like piracy, which could be a risk. In 
 order to run bash scripts on your windows computer you need to install the windows git shell
-that was just released by windows for windows 10. You can find the homepage for that tool here
-https://git-scm.com/download/win and as always virus scan any link or files you use at virustotal
+that was just released by windows for windows 10. You can find the homepage for that tool [here]
+(https://git-scm.com/download/win) and as always virus scan any link or files you use at virustotal
 found at https://www.virustotal.com/gui/. Once you install the git shell you can juse double click
 the HaloMod.sh file and it will run allowing you to use it with no other dependancies. 
 
