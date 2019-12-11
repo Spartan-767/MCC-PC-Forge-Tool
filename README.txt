@@ -29,7 +29,7 @@ Please first select option 2 and set the path to the MCC Directory, you should u
 the folder named 'Halo The Master Chief Collection' specifically. Then you may use the first option 
 to easily turn forge on and off. You will need to follow the steps here   in order to create the modified 
 pak file you will need to place in the mods folder. You will also need to donwload the edited forge map 
-from (here)[https://mega.nz/#!eodgBKJS!7IlHqdeSxVesGEZ3gwYFE2QRsKnuZyYkVLRA2IDKFRY] and place it in the mods folder as well.
+from [here](https://mega.nz/#!eodgBKJS!7IlHqdeSxVesGEZ3gwYFE2QRsKnuZyYkVLRA2IDKFRY) and place it in the mods folder as well.
 
 Windows Usage:
 --------------------------------------------
